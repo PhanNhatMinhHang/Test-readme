@@ -13,3 +13,7 @@
 
 ## Markdown Syntax
 **bold**
+*italic*
+> blockquote
+`code`
+---
