@@ -17,3 +17,10 @@
 > blockquote
 `code`
 ---
+## Extended Syntax
+```
+{
+    "abc":"123
+}
+```
+I want to highlight ==this part==.
