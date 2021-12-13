@@ -10,3 +10,6 @@
 
 ## Link Example
 [Youtube](https://www.youtube.com/)
+
+## Markdown Syntax
+**bold**
