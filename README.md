@@ -24,4 +24,4 @@
 }
 ```
 ## preview an image
-![logo Zuzul](logo.png)
+![logo Zuzul](logo.PNG)
